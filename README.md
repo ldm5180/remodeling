@@ -1,2 +1,1 @@
-# remodeling
-Information for remodeling projects.
+# Information for remodeling projects.
