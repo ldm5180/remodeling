@@ -9,6 +9,10 @@
 - Glass block
   1. [Straight flutes](http://pittsburghcorning.com/products/loose-glass-block/argus-parallel-flutes.aspx) - [Specs](http://pittsburghcorning.com/specifications-and-details/cad/default.aspx) - [Photo](sflute.jpg)
   1. [Curved flutes](http://pittsburghcorning.com/products/loose-glass-block/spyra-pattern.aspx) - [Specs](http://pittsburghcorning.com/specifications-and-details/cad/default.aspx) - [Photo](cflute.jpg)
+- Audio system
+  1. [2 In-ceiling speakers](http://www.polkaudio.com/rc60i/d/1184) - [Specs](http://www.polkaudio.com/rc60i/d/1184#specs) - [Photo](speakers.jpg)
+  1. [Bluetooth receiver & amp](http://www.pyleaudio.com/sku/PWA15BT/Bluetooth-Wall-Plate--In-Wall-Audio-Control-Amplifier-Receiver,-Microphone-Paging-and-Speaker-Control,-Stereo-and-Microphone-Inputs,-Universal-Gang-Plate-Standard,-Terminal-Block-Speaker-Connection,-USB-Charging,-100-Watt) - [Specs](pyle.pdf) - [Photo](pyle.jpg)
+
 # To Decide
 
 # Ideas
