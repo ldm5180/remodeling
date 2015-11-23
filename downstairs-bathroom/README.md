@@ -6,6 +6,7 @@
 - [Bathtub](http://www.sterlingplumbing.com/baths-and-showers/bathtubs/Ensemble-TM-Bath-with-Left-hand-Drain-71171110-detail?productNumber=71171110) - [Specs](tub-spec.pdf) - [Photo](tub.jpg)
   1. [Drain](http://www.deltafaucet.com/bath/details/rp31558rb.html) - [Photo](tub-drain.jpg)
   1. [Overflow plate](http://www.deltafaucet.com/bath/details/rp31556rb.html) - [Photo](tub-overflow.jpg)
+  1. [Spout](http://www.deltafaucet.com/bath/details/rp34357rb.html) - 7 1/2" total length, sweat onto 1/2" CWT or thread 1/2" IPS - [Photo](tub-spout.jpg)
   
 - [Toilet](http://www.us.kohler.com/us/Memoirs%C2%AE+Stately+Comfort+Height%C2%AE+two-piece+elongated+1.28+gpf+toilet+with+AquaPiston%C2%AE+flush+technology+and+left-hand+trip+lever/productDetail/Styles+of+Toilets/428459.htm) - [Specs](toilet-spec.pdf) - [Photo](toilet.jpg)
 
