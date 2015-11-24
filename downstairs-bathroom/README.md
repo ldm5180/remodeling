@@ -26,6 +26,8 @@
   1. [2 In-ceiling speakers](http://www.polkaudio.com/rc60i/d/1184) - [Specs](http://www.polkaudio.com/rc60i/d/1184#specs) - [Photo](speakers.jpg)
   1. [Bluetooth receiver & amp](http://www.pyleaudio.com/sku/PWA15BT/Bluetooth-Wall-Plate--In-Wall-Audio-Control-Amplifier-Receiver,-Microphone-Paging-and-Speaker-Control,-Stereo-and-Microphone-Inputs,-Universal-Gang-Plate-Standard,-Terminal-Block-Speaker-Connection,-USB-Charging,-100-Watt) - [Specs](pyle.pdf) - [Photo](pyle.jpg)
 
+- [Vanity light](http://www.arroyocraftsman.com/products_indv.aspx?Category=Application&Item=Wall+Mounts&Family=Saint+Clair&ItemNum=SCLB-30) - Blue & white - [Specs](vanity-light-spec.md) - [Photo](vanity-light.jpg)
+
 # To Decide
 
 # Ideas
