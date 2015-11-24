@@ -42,5 +42,7 @@
   1. [GFCI outlet](http://www.leviton.com/OA_HTML/ProductDetail.jsp?partnumber=GFTR1-E&section=65905&minisite=10251) - [Photo](gfci.jpg)
 
 # To Decide
+- Bathtub tile
+- Backsplash tile
 
 # Ideas
