@@ -2,6 +2,8 @@
 - [Sink](http://www.us.kohler.com/us/Memoirs%C2%AE+Stately+24%22+pedestal+bathroom+sink+with+8%22+widespread+faucet+holes/productDetail/Memoirs%C2%AE/422317.htm) - [Specs](sink-spec.pdf) - [Photo](sink.jpg)
   1. [Drain flange](http://www.deltafaucet.com/repairparts/details/rp23060rb.html) - [Photo](drain-flange.jpg)
   1. [Drain stopper](http://www.deltafaucet.com/repairparts/details/rp5648rb.html) - [Photo](drain-stopper.jpg)
+  1. [Angle stops-hot/cold](http://smile.amazon.com/gp/product/B002P90J78?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - [Photo](http://ecx.images-amazon.com/images/I/71CCien6kaL._SL1500_.jpg)
+  1. [P-Trap](http://smile.amazon.com/gp/product/B000IKK0AC?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - 1 1/4" inlet/outlet - [Photo](http://ecx.images-amazon.com/images/I/51i9PQzba8L._SL1000_.jpg)
 
 - [Bathtub](http://www.sterlingplumbing.com/baths-and-showers/bathtubs/Ensemble-TM-Bath-with-Left-hand-Drain-71171110-detail?productNumber=71171110) - [Specs](tub-spec.pdf) - [Photo](tub.jpg)
   1. [Drain](http://www.deltafaucet.com/bath/details/rp31558rb.html) - [Photo](tub-drain.jpg)
@@ -10,8 +12,9 @@
   1. [Faucet adapter](http://www.deltafaucet.com/repairparts/details/rp12307.html) - [Photo](faucet-adapter.jpg)
   
 - [Toilet](http://www.us.kohler.com/us/Memoirs%C2%AE+Stately+Comfort+Height%C2%AE+two-piece+elongated+1.28+gpf+toilet+with+AquaPiston%C2%AE+flush+technology+and+left-hand+trip+lever/productDetail/Styles+of+Toilets/428459.htm) - [Specs](toilet-spec.pdf) - [Photo](toilet.jpg)
-
-- [Toilet seat](http://www.us.kohler.com/us/Stonewood%C2%AE+with+Quick-Release%E2%84%A2+Hinges+elongated+toilet+seat/productDetail/Quick-Release+Toilet+Seats/429167.htm) - [Specs](toilet_seat-spec.pdf) - [Photo](toilet_seat.jpg)
+  1. [Toilet seat](http://www.us.kohler.com/us/Stonewood%C2%AE+with+Quick-Release%E2%84%A2+Hinges+elongated+toilet+seat/productDetail/Quick-Release+Toilet+Seats/429167.htm) - [Specs](toilet_seat-spec.pdf) - [Photo](toilet_seat.jpg)
+  1. [Angle stop](http://smile.amazon.com/gp/product/B002P90J78?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - [Photo](http://ecx.images-amazon.com/images/I/71CCien6kaL._SL1500_.jpg)
+  1. [Supply line flange](http://smile.amazon.com/gp/product/B000K19EFQ?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00) - 1/2" IPS - [Photo](http://ecx.images-amazon.com/images/I/61lVX2VaZ%2BL._SL1000_.jpg)
 
 - [Medicine cabinet](http://www.robern.com/product/detail.rbn?productNumber=RC2026D4FP1&productLine=R3%20Series&category=Cabinets) - [Specs](medicine_cabinet-spec.pdf) - [Photo](medicine_cabinet.jpg)
 
