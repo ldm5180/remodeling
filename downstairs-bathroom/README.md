@@ -7,6 +7,7 @@
   1. [Drain](http://www.deltafaucet.com/bath/details/rp31558rb.html) - [Photo](tub-drain.jpg)
   1. [Overflow plate](http://www.deltafaucet.com/bath/details/rp31556rb.html) - [Photo](tub-overflow.jpg)
   1. [Spout](http://www.deltafaucet.com/bath/details/rp34357rb.html) - 7 1/2" total length, sweat onto 1/2" CWT or thread 1/2" IPS - [Photo](tub-spout.jpg)
+  1. [Faucet adapter](http://www.deltafaucet.com/repairparts/details/rp12307.html) - [Photo](faucet-adapter.jpg)
   
 - [Toilet](http://www.us.kohler.com/us/Memoirs%C2%AE+Stately+Comfort+Height%C2%AE+two-piece+elongated+1.28+gpf+toilet+with+AquaPiston%C2%AE+flush+technology+and+left-hand+trip+lever/productDetail/Styles+of+Toilets/428459.htm) - [Specs](toilet-spec.pdf) - [Photo](toilet.jpg)
 
@@ -27,6 +28,18 @@
   1. [Bluetooth receiver & amp](http://www.pyleaudio.com/sku/PWA15BT/Bluetooth-Wall-Plate--In-Wall-Audio-Control-Amplifier-Receiver,-Microphone-Paging-and-Speaker-Control,-Stereo-and-Microphone-Inputs,-Universal-Gang-Plate-Standard,-Terminal-Block-Speaker-Connection,-USB-Charging,-100-Watt) - [Specs](pyle.pdf) - [Photo](pyle.jpg)
 
 - [Vanity light](http://www.arroyocraftsman.com/products_indv.aspx?Category=Application&Item=Wall+Mounts&Family=Saint+Clair&ItemNum=SCLB-30) - Blue & white - [Specs](vanity-light-spec.md) - [Photo](vanity-light.jpg)
+
+- Switch plates
+  1. [Brass triple push button](http://www.houseofantiquehardware.com/switchplates-art-nouveau-triple-push-button) - R-010MG-CP3PB-ABH - [Photo](sp-triple.jpg)
+  1. [Brass push button GFI combo](http://www.houseofantiquehardware.com/decorative-light-switch-plate-art-nouveau-push-button-gfi) - R-010MG-CPGPB-ABH - [Photo](sp-combo.jpg)
+  1. [Brass single GFI](http://www.houseofantiquehardware.com/antique-decorative-switchplates-art-nouveau-gfi) - R-010MG-CP1G-ABH - [Photo](sp-single-gfi.jpg)
+
+- Switches and Dimmers and Outlets
+  1. [Fan switch](http://www.classicaccents.net/Merchant2/merchant.mvc?Screen=PROD&Store_Code=CAI&Product_Code=HD12&Category_Code=PBS) - [Photo](http://www.classicaccents.net/Merchant2/graphics/00000001/WEBSITE_HD12.jpg)
+  1. [Vanity switch](http://www.classicaccents.net/Merchant2/merchant.mvc?Screen=PROD&Store_Code=CAI&Product_Code=HD12&Category_Code=PBS) - [Photo](http://www.classicaccents.net/Merchant2/graphics/00000001/WEBSITE_HD12.jpg)
+  1. [3-way switch](http://www.classicaccents.net/Merchant2/merchant.mvc?Screen=PROD&Store_Code=CAI&Product_Code=HD3&Category_Code=PBS) - [Photo](http://www.classicaccents.net/Merchant2/graphics/00000001/WEBSITE_HD3.jpg)
+  1. [Dimmer switch](http://www.classicaccents.net/Merchant2/merchant.mvc?Screen=PROD&Store_Code=CAI&Product_Code=S93DMTRIM&Category_Code=DIM) - [Photo](http://www.classicaccents.net/Merchant2/graphics/00000001/WEBSITE_S93DMTRIM.jpg)
+  1. [GFCI outlet](http://www.leviton.com/OA_HTML/ProductDetail.jsp?partnumber=GFTR1-E&section=65905&minisite=10251) - [Photo](gfci.jpg)
 
 # To Decide
 
